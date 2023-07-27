@@ -23,3 +23,8 @@ Confusion Matrix:
 
 Classification Report: 
 
+Confusion Matrix:
+https://github.com/Bar89bas/Credit-risk-classification/issues/2
+
+Classification Report:
+https://github.com/Bar89bas/Credit-risk-classification/issues/1
